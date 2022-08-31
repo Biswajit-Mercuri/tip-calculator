@@ -23,7 +23,5 @@ Users should be able to:
 ### Built with
 
 - HTML5
-- SASS### Screenshot
+- SASS### 
 
-![desktop](./desktop.png)
-![mobile](./mobile.png)
